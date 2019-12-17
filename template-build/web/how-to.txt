@@ -1,0 +1,8 @@
+Codebycandle Unity HTML Template
+=========================
+This folder serves as THE Codebycandle web template.
+
+To use:
+1.  Take any Unity project, and do a WebGL build.
+2.  Take newly-created child "Build" folder, & overwrite [this] child "Build" folder.
+3.  Update title text inside "index.html” - 2 spots (line #’s 6, 23).
